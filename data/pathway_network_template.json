@@ -1,0 +1,14 @@
+{"nodes": [
+      {"bigg_id": "e4p", "x": 50, "y": 100},
+      {"bigg_id": "xu5p-D", "x": 50, "y": 200},
+      {"bigg_id": "f6p", "x": 300, "y": 100},
+      {"bigg_id": "f6p", "x": 300, "y": 200},
+      {"bigg_id": "TKT2", "x": 350, "y": 350, fixed: true}
+    ],
+    "links": [
+      {"source": 0, "target": 4},
+      {"source": 1, "target": 4},
+      {"source": 4, "target": 2},
+      {"source": 4, "target": 3},
+    ]
+  }

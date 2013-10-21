@@ -1,0 +1,186 @@
+{"name" : "CEN.PK102-5B", 
+"time_stamp" : 1314977520000, 
+"children" : [
+	{
+		"name" : "St614- pINT-3xFP-is3", 
+		"time_stamp" : 1357308540000, 
+		"children" : [
+			{
+				"name" : "ST899isB4", 
+				"time_stamp" : 1372244640000
+			}, 
+			{
+				"name" : "ST900isD4", 
+				"time_stamp" : 1372244940000
+			}, 
+			{
+				"name" : "ST901isB7", 
+				"time_stamp" : 1372244940000
+			}, 
+			{
+				"name" : "ST902isA11", 
+				"time_stamp" : 1372245000000
+			}, 
+			{
+				"name" : "ST903isE8", 
+				"time_stamp" : 1372245060000
+			}, 
+			{
+				"name" : "ST904isG7", 
+				"time_stamp" : 1372245060000
+			}, 
+			{
+				"name" : "ST905isG8", 
+				"time_stamp" : 1372245120000
+			}
+		]
+	}, 
+	{
+		"name" : "St615- pINT-3xFP-is4", 
+		"time_stamp" : 1357308660000
+	}, 
+	{
+		"name" : "St616- pINT-3xFP-is5", 
+		"time_stamp" : 1357308960000
+	}, 
+	{
+		"name" : "St617- pINT-3xFP-is7", 
+		"time_stamp" : 1357309020000
+	}, 
+	{
+		"name" : "Sc Delta pdc5", 
+		"time_stamp" : 1362158340000
+	}, 
+	{
+		"name" : "Sc Delta aro10", 
+		"time_stamp" : 1362158400000, 
+		"children" : [
+			{
+				"name" : "Sc Delta aro10-pdc5", 
+				"time_stamp" : 1363165320000, 
+				"children" : [
+					{
+						"name" : "ST691+5HTP-PW", 
+						"time_stamp" : 1369666260000
+					}, 
+					{
+						"name" : "ID1524_ST691-RA11-L2", 
+						"time_stamp" : 1380704400000
+					}
+				]
+			}
+		]
+	}, 
+	{
+		"name" : "SCEARO-0001", 
+		"time_stamp" : 1363276440000
+	}, 
+	{
+		"name" : "TY4-MCR-ACC1", 
+		"time_stamp" : 1363278660000
+	}, 
+	{
+		"name" : "TY4MCR-ACC1-ACS-ALD6", 
+		"time_stamp" : 1363278780000
+	}, 
+	{
+		"name" : "SCE-R2-118", 
+		"time_stamp" : 1365442920000, 
+		"children" : [
+			{
+				"name" : "SCE-PYC1^PYC2^ (ura-his-leu-)", 
+				"time_stamp" : 1367065080000, 
+				"children" : [
+					{
+						"name" : "SCE-R2-(194-201)", 
+						"time_stamp" : 1369133340000
+					}, 
+					{
+						"name" : "SCE-R2-200 (E8)", 
+						"time_stamp" : 1376581680000
+					}
+				]
+			}, 
+			{
+				"name" : "SCE-R2-(202-209)", 
+				"time_stamp" : 1369133400000
+			}
+		]
+	}, 
+	{
+		"name" : "5B_SFA1Cys276Ser-KlLEU2", 
+		"time_stamp" : 1365515820000
+	}, 
+	{
+		"name" : "CEN.PK5B_SFA1Met283Ile-KlLEU2", 
+		"time_stamp" : 1365515940000
+	}, 
+	{
+		"name" : "CEN.PK5B_SFA1wt-KlLEU2", 
+		"time_stamp" : 1365516000000
+	}, 
+	{
+		"name" : "5HTP NO1", 
+		"time_stamp" : 1366284420000, 
+		"children" : [
+			{
+				"name" : "St782 (ST737isC2)", 
+				"time_stamp" : 1369232400000
+			}, 
+			{
+				"name" : "St783 (ST737isB5)", 
+				"time_stamp" : 1369232460000
+			}
+		]
+	}, 
+	{
+		"name" : "SCE-R2-(178-185)", 
+		"time_stamp" : 1369133280000
+	}, 
+	{
+		"name" : "STC-R1-(1-15)", 
+		"time_stamp" : 1369406820000
+	}, 
+	{
+		"name" : "MelatoninPW strains", 
+		"time_stamp" : 1370876760000, 
+		"children" : [
+			{
+				"name" : "ST827isA3", 
+				"time_stamp" : 1372090500000, 
+				"children" : [
+					{
+						"name" : "ST892loopedout", 
+						"time_stamp" : 1374066960000, 
+						"children" : [
+							{
+								"name" : "SC925_more isolates", 
+								"time_stamp" : 1376302380000
+							}, 
+							{
+								"name" : "SC916-T1-S1", 
+								"time_stamp" : 1377079620000
+							}
+						]
+					}
+				]
+			}
+		]
+	}, 
+	{
+		"name" : "SC10-RA1to16andWT", 
+		"time_stamp" : 1371635520000
+	}, 
+	{
+		"name" : "SC10-WTandRA16to24 ", 
+		"time_stamp" : 1371635580000
+	}, 
+	{
+		"name" : "ID1522_ST10-RA11-S1", 
+		"time_stamp" : 1380704280000
+	}, 
+	{
+		"name" : "ID1523_ST10-RA11-S2", 
+		"time_stamp" : 1380704340000
+	}
+]}

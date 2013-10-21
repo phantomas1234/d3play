@@ -1,6 +1,6 @@
 name: d3play
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
-baseurl: d3play
+baseurl: /d3play
 
 

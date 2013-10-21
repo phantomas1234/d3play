@@ -5,7 +5,7 @@ date:   2013-10-21 13:38:32
 categories: jekyll update
 ---
 
-<script src="{{ site.baseurl }}js/pathway.js"></script>
+<script src="{{ site.baseurl }}/js/pathway.js"></script>
 
 <div class="body"></div>
 
@@ -29,7 +29,7 @@ categories: jekyll update
         var pathway_chart = pathway()
         pathway_chart.width(width).height(height)
 
-        d3.json("/data/ecoli_core_bipartite.json", function (error, data) {
+        d3.json("{{ site.baseurl }}/data/ecoli_core_bipartite.json", function (error, data) {
           console.log(10)
           if (error) {console.log(error)};
           pathway_chart(data, svg)

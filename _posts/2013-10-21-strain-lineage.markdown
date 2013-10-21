@@ -32,7 +32,7 @@ var svg = d3.select("#lineage").append("svg")
     .attr("transform", "translate(" + padding.left + "," + padding.top + ")");
 
 
-    d3.json("/data/lineage_yields_growth.json", function(error, data) {
+    d3.json("{{ site.baseurl }}/data/lineage_yields_growth.json", function(error, data) {
     if (error) {console.log(error)};
     
     // lineage_chart_temporal(data, svg)

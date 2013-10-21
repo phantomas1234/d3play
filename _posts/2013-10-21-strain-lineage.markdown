@@ -5,7 +5,7 @@ date:   2013-10-21 13:38:32
 categories: jekyll update
 ---
 
-<script src="{{ site.baseurl }}js/lineage.js"></script>
+<script src="{{ site.baseurl }}/js/lineage.js"></script>
 
 <div id="lineage"></div>
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pathway map"
+title:  "Pathway map using d3.layout.force"
 date:   2013-10-21 13:38:32
-categories: jekyll update
+author: Niko
 ---
 
 <script src="{{ site.baseurl }}/js/pathway.js"></script>

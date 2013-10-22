@@ -23,7 +23,7 @@ var margin = {top: 20, right: 20, bottom: 20, left: 20},
 
 // var lineage_chart_temporal = lineage_temporal().width(width).height(height)
 // var lineage_chart_growth_vs_yield = lineage_growth_vs_yield().width(width).height(height)
-var lineage_chart_hack = lineage_hack().width(width).height(height)
+var lineage_chart = lineage().width(width).height(height)
 
 var svg = d3.select("#lineage").append("svg")
     .attr("width", outerWidth)
@@ -37,7 +37,7 @@ var svg = d3.select("#lineage").append("svg")
     
     // lineage_chart_temporal(data, svg)
     // lineage_chart_growth_vs_yield(data, svg)
-    lineage_chart_hack(data, svg)
+    lineage_chart(data, svg)
 
 });
 

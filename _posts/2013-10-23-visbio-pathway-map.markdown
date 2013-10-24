@@ -12,5 +12,5 @@ author: Niko
 
 <script type="text/javascript">
 
-    visbio.metabolic_map({ fill_screen: true, map_path: "{{ site.basurl}}/data/ijo-central.json" });
+    visbio.metabolic_map({ fill_screen: true, map_path: "{{ site.baseurl }}/data/ijo-central.json" });
 </script>
